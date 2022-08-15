@@ -1,0 +1,54 @@
+{
+  "name": "Mozart Finance Default List",
+  "timestamp": "2021-04-01T09:56:23Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/coins/BNB.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Magik",
+      "symbol": "MAGIK",
+      "address": "0x87a5c9b60a3aaf1064006fe64285018e50e0d020",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.mozartfinance.io/images/coins/PIANO.png"
+    },
+    {
+      "name": "Magik Shares",
+      "symbol": "MSHARE",
+      "address": "0xc8ca9026ad0882133ef126824f6852567c571a4e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.mozartfinance.io/images/coins/PIANO.png"
+    },
+    {
+      "name": "WFTM Token",
+      "symbol": "WFTM",
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.mozartfinance.io/images/coins/PIANO.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+    },
+    {
+      "name": "Polkadot Token",
+      "symbol": "DOT",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
+    }
+  ]
+}
